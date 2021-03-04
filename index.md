@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## SOUTH TYROL CARDANO POOL
 
 You can use the [editor on GitHub](https://github.com/fisch192/southtyrolpool.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
