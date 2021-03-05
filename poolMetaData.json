@@ -2,5 +2,6 @@
 "name": "Southtyrolpool",
 "description": "A stable pool from south tyrol",
 "ticker": "sudti",
-"homepage": "https://fisch192.github.io/southtyrolpool.github.io"
+"homepage": "https://fisch192.github.io/southtyrolpool.github.io",
+"extended": "https://github.com/fisch192/southtyrolpool.github.io/blob/main/extended.json"
 }
