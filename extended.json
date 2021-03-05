@@ -1,0 +1,17 @@
+{
+   
+    "info": {
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/fisch192/southtyrolpool.github.io/6c907bf918373c1fbd26c290a054dbd96c3aad60/iphone-40x40%402x.png",
+        "location": "Italy",
+        "social": {
+          
+            "telegram_handle": "Southtyrolpool",
+        }
+        "about": {
+            "me": "passionate technician",
+            "server": "Raspberry Pi Hosted at my Home in Southtyrol Italy 200MB up/down, renewable Energy.",
+            "company": "..."
+        },
+        "rss": "http(s) url to valid RSS feed"
+    },
+}
