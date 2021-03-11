@@ -15,13 +15,13 @@
         "company": {
             "name": "Southtyrol",
             "addr": "",
-            "city": "",
+            "city": "Bolzano",
             "country": "IT",
             "company_id": "",
             "vat_id": ""
         },
         "about": {
-            "me": "Individually operated single pool operater. Try to bring the cardano World to Southtyrol",
+            "me": "Single pool operater. Try to bring the cardano World to Southtyrol",
             "server": "Raspberry Pi 4 powered with green energy",
             "company": ""
         },
