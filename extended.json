@@ -28,33 +28,8 @@
     "my-pool-ids": {
         "0": "2dabd15e4759334738940a65e06b6589f674a29347db0a36d75a5d36",
         "1": ""
-    },
-    "when-satured-then-recommend": {
-        "0": "",
-        "1": ""
-    },
-    "telegram-admin-handle": {
-        "0": ""
-    },
-    "adapools_ext": {
-        "prometheus": {
-            "0": {
-                "name": "",
-                "type": "",
-                "key": ""
-            },
-            "1": {
-                "name": "",
-                "type": "",
-                "key": ""
-            },
-            "2": {
-                "name": "",
-                "type": "",
-                "key": ""
-            }
-        }
       }
     }
 }
+
 
