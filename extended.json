@@ -25,7 +25,7 @@
             "server": "Raspberry Pi 4 powered with green energy",
             "company": ""
         },
-        "rss": ""
+        
     },
     "my-pool-ids": {
         "0": "2dabd15e4759334738940a65e06b6589f674a29347db0a36d75a5d36",
@@ -56,6 +56,7 @@
                 "key": ""
             }
         }
+      }
     }
 }
 
