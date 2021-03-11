@@ -1,18 +1,62 @@
 {
-   
+    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
     "info": {
-        "url_png_icon_64x64": "https://raw.githubusercontent.com/fisch192/southtyrolpool.github.io/6c907bf918373c1fbd26c290a054dbd96c3aad60/iphone-40x40%402x.png",
-        "location": "Italy",
+        "url_png_icon_64x64": "http(s) url to pool icon; not animated; max 40kb",
+        "url_png_logo": "http(s) url to pool logo; not animated; max 50kb",
+        "location": "Bolzano, Italy",
         "social": {
-          
-            "telegram_handle": "Southtyrolpool",
+            "twitter_handle": "Southtyrolpool",
+            "telegram_handle": "adapools_ops",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "Company Name",
+            "addr": "Street, Number",
+            "city": "London",
+            "country": "England",
+            "company_id": "123456789",
+            "vat_id": "GB123456789"
         },
         "about": {
-            "me": "passionate technician",
-            "server": "Raspberry Pi Hosted at my Home in Southtyrol Italy 200MB up/down, renewable Energy.",
+            "me": "...",
+            "server": "Raspberry Pi Hosted at my Home in Bolzano 100MB up/down, green energy.",
             "company": "..."
         },
-       
+        "rss": "http(s) url to valid RSS feed"
     },
+    "my-pool-ids": {
+        "0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735",
+        "1": "618ab17ec8ea7239b4ac0c826b667c599489e25524ce74841a29d510"
+    },
+    "when-satured-then-recommend": {
+        "0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735",
+        "1": "618ab17ec8ea7239b4ac0c826b667c599489e25524ce74841a29d510"
+    },
+    "telegram-admin-handle": {
+        "0": "mnmnmnmnnmn"
+    },
+    "adapools_ext": {
+        "prometheus": {
+            "0": {
+                "name": "relay 1 eu",
+                "type": "relay",
+                "key": "example_get_own_on_adapools.org/connect"
+            },
+            "1": {
+                "name": "relay 2 usa",
+                "type": "relay",
+                "key": "example_get_own_on_adapools.org/connect"
+            },
+            "2": {
+                "name": "block producer home",
+                "type": "bp",
+                "key": "example_get_own_on_adapools.org/connect"
+            }
+        }
+    }
 }
 
