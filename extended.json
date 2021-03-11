@@ -14,30 +14,20 @@
             "github_handle": ""
         },
         "company": {
-            "name": "Company Name",
-            "addr": "Street, Number",
-            "city": "London",
-            "country": "England",
-            "company_id": "123456789",
-            "vat_id": "GB123456789"
+            "city": "Bolzano",
+            "country": "Italy",
         },
         "about": {
             "me": "...",
             "server": "Raspberry Pi Hosted at my Home in Bolzano 100MB up/down, green energy.",
-            "company": "..."
         },
         "rss": "http(s) url to valid RSS feed"
     },
     "my-pool-ids": {
-        "0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735",
-        "1": "618ab17ec8ea7239b4ac0c826b667c599489e25524ce74841a29d510"
-    },
-    "when-satured-then-recommend": {
-        "0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735",
-        "1": "618ab17ec8ea7239b4ac0c826b667c599489e25524ce74841a29d510"
+        "0": "pool19k4azhj8tye5wwy5pfj7q6m938m8fg5nglds5dkhtfwnvcg3s0k"
     },
     "telegram-admin-handle": {
-        "0": "mnmnmnmnnmn"
+    "0": "mnmnmnmnnmn"
     },
     "adapools_ext": {
         "prometheus": {
