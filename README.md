@@ -4,7 +4,7 @@ Southtyrol Cardano Pool is now running on energy efficient hardware. Raspberry p
 The Cardano proof-of-stake consensus mechanism makes this possible because electricity is not wasted as in proof-of-work hashing. Green electricity can be obtained via power grid as well, but running your own supply means even greater level of decentralization.
 
 
-Minimal Cost  ●   0% Fee  ●  1k ADA Pledge
+Minimal Cost  ●   0% Fee  ●  35k ADA Pledge
 
 
 Operating an environment-friendly 5 Watt stakepool 24/7 with 99.9% uptime
