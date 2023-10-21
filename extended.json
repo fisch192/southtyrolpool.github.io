@@ -2,7 +2,7 @@
     "info": {
         "url_png_icon_64x64": "https://github.com/fisch192/southtyrolpool.github.io/blob/main/iphone-40x40@2x.png?raw=true",
         "url_png_logo": "https://github.com/fisch192/southtyrolpool.github.io/blob/main/design1.png?raw=true",
-        "location": "Bolzano | South Tyrol | Italy",
+        "location": " South Tyrol | Italy",
         "social": {
             "twitter_handle": "southtyrolpool",
             "telegram_handle": "southtyrolpool",
@@ -22,7 +22,7 @@
         },
         "about": {
             "me": "Single pool operater from Southtyrol, North of Italy. Trying to bring the cardano World to Southtyrol. I´m happy to be part of the Cardano network and to support the community",
-            "server": "Raspberry Pi 4 powered with green energy.Our equipment currently consists of 1 Block Producer and 2 Relay Nodes.We can guarantee an excellent internet connection. BARE METAL SERVERS ",
+            "server": "Hardware powered with green energy.Our equipment currently consists of 1 Block Producer and 2 Relay Nodes.We can guarantee an excellent internet connection. BARE METAL SERVERS ",
             "company": ""
         },
     "my-pool-ids": {
