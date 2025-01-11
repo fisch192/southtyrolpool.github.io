@@ -1,0 +1,96 @@
+{
+  "@context": {
+    "@language": "en-us",
+    "CIP100": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0100/README.md#",
+    "CIP119": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0119/README.md#",
+    "hashAlgorithm": "CIP100:hashAlgorithm",
+    "body": {
+      "@id": "CIP119:body",
+      "@context": {
+        "references": {
+          "@id": "CIP119:references",
+          "@container": "@set",
+          "@context": {
+            "GovernanceMetadata": "CIP100:GovernanceMetadataReference",
+            "Identity": "CIP119:IdentityReference",
+            "Link": "CIP119:LinkReference",
+            "Other": "CIP100:OtherReference",
+            "label": "CIP100:reference-label",
+            "uri": "CIP100:reference-uri",
+            "referenceHash": {
+              "@id": "CIP119:referenceHash",
+              "@context": {
+                "hashDigest": "CIP119:hashDigest",
+                "hashAlgorithm": "CIP100:hashAlgorithm"
+              }
+            }
+          }
+        },
+        "paymentAddress": "CIP119:paymentAddress",
+        "givenName": "CIP119:givenName",
+        "image": "CIP119:image",
+        "objectives": "CIP119:objectives",
+        "motivations": "CIP119:motivations",
+        "qualifications": "CIP119:qualifications",
+        "doNotList": "CIP119:doNotList"
+      }
+    },
+    "authors": {
+      "@id": "CIP100:authors",
+      "@container": "@set",
+      "@context": {
+        "name": "http://xmlns.com/foaf/0.1/name",
+        "witness": {
+          "@id": "CIP100:witness",
+          "@context": {
+            "witnessAlgorithm": "CIP100:witnessAlgorithm",
+            "publicKey": "CIP100:publicKey",
+            "signature": "CIP100:signature"
+          }
+        }
+      }
+    }
+  },
+  "authors": [],
+  "hashAlgorithm": {
+    "@value": "blake2b-256"
+  },
+  "body": {
+    "doNotList": false,
+    "givenName": {
+      "@value": "SUDTI"
+    },
+    "motivations": {
+      "@value": "Professional Motivation:\n\nLeveraging Experience: As a Pool Operator, I've gained substantial experience in securing the Cardano network. I want to leverage this expertise in a governance role where I can influence network policies, security measures, and improvements directly.\nEnhancing Security and Stability: My background in network security can be particularly beneficial in governance decisions related to protocol upgrades, security measures, or addressing vulnerabilities. \n\ntechnical Expertise: My hands-on experience with running a stake pool gives me a unique perspective on the technical challenges and solutions within Cardano. I can share insights on network operations, node performance, and the practical implications of governance decisions.\n\nProblem-Solving Skills: Dealing with the day-to-day challenges of pool operation has honed my problem-solving skills, which are crucial when navigating the complex landscape of blockchain governance."
+    },
+    "objectives": {
+      "@value": "Increase Participation: My primary goal is to boost community involvement in governance. This involves:\nEducating ADA holders on the importance of voting.\nSimplifying the process of participation for those new to governance.\nDrive Positive Change: I plan to:\nAdvocate for protocol improvements that enhance security, scalability, and user experience.\nSupport proposals that align with community consensus and long-term benefits."
+    },
+    "paymentAddress": {
+      "@value": "addr1q9zgf4zkgsxpj4n8ncs7r4nwjfxkf8qqve3zwprv8uwfdaakpul8ek6aclvgmgxtcr3xg6d77fn2zwp6jvuqs09z9lzsxhd6tt"
+    },
+    "qualifications": {
+      "@value": "Stake Pool operatore"
+    },
+    "references": [
+      {
+        "@type": "Link",
+        "label": {
+          "@value": "Southtyrol Pool "
+        },
+        "uri": {
+          "@value": "x.com/southtyrolpool"
+        }
+      },
+      {
+        "@type": "Identity",
+        "label": {
+          "@value": "Southtyrol Pool "
+        },
+        "uri": {
+          "@value": "x.com/southtyrolpool"
+        }
+      }
+    ]
+  }
+}
